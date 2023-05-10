@@ -1,2 +1,2 @@
 # html-portfolio
-A simple html projecy
+A simple html project
